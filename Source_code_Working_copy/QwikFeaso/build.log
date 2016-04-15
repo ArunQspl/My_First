@@ -1,0 +1,355 @@
+Logfile initialized
+[INFO] logfile = /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build.log
+[DEBUG] /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/builder.py distribute QwikFeaso /Users/netadmin/Library/android-sdks /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso com.developernetwork.qwikfeaso /Users/netadmin/Documents/QwikFeaso/QwikFeaso_App_Distribution/Keypair_Certificate/android.keystore qwikfeaso qwikfeaso /Users/netadmin/Documents/QwikFeaso/QwikFeaso_App_Distribution/Signed_APK_26-08-2013a 2
+[INFO] Titanium SDK version: 2.1.4 (11/09/12 12:46 51f2c64)
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[INFO] Detected change in tiapp.xml, or assets deleted. Forcing full re-build...
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/app.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/app.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/appicon.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/appicon.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/Data/DBFeaso.sqlite => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/Data/DBFeaso.sqlite
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/check.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/check.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/constructioncostcalicon.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/constructioncostcalicon.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/cross_btn.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/cross_btn.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/def.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/def.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/default_property2.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/default_property2.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/default_property2@2x.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/default_property2@2x.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/GrayNavBar.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/GrayNavBar.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/myproperties.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/myproperties.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/myproperties@2x.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/myproperties@2x.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/qwikfeasodashboard.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/qwikfeasodashboard.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/radiobtnactive.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/radiobtnactive.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/radiobtninactive.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/radiobtninactive.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/settings.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/settings.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/settings@2x.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/settings@2x.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/thumbsdown.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/thumbsdown.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/thumbsup.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/thumbsup.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/images/uncheck.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/images/uncheck.png
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/lib/accounting.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/lib/accounting.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/lib/CityState.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/lib/CityState.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/lib/Common.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/lib/Common.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/services/ACSTransactions.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/services/ACSTransactions.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/services/CachingData.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/services/CachingData.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/services/DatabaseAlterations.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/services/DatabaseAlterations.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/services/DataBaseTransaction.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/services/DataBaseTransaction.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/services/GetFromDataBase.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/services/GetFromDataBase.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/services/TempDBTransaction.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/services/TempDBTransaction.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ti.cloud.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ti.cloud.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/AddDwelling.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/AddDwelling.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/AddProperty.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/AddProperty.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/AddScenario.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/AddScenario.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/BuildVersion.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/BuildVersion.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/CommonSettings.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/CommonSettings.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/ConstructionCost.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/ConstructionCost.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/CostElementDetails.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/CostElementDetails.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/CostElements.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/CostElements.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/DashBoard.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/DashBoard.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/DwellingDescription.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/DwellingDescription.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/EditScenario.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/EditScenario.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/FeasibilityDetails.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/FeasibilityDetails.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/FirstRunWizard.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/FirstRunWizard.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/GenerateHTML.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/GenerateHTML.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/Header.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/Header.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/LandingPage.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/LandingPage.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/LicensedUserDetails.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/LicensedUserDetails.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/MyPropertyDetails.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/MyPropertyDetails.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/MyPropertyList.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/MyPropertyList.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/NewCostElement.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/NewCostElement.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/popup.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/popup.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/RoomDimensions.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/RoomDimensions.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/ScenarioDetails.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/ScenarioDetails.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/Scenarios.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/Scenarios.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/SelectPropertyPhotos.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/SelectPropertyPhotos.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/Settings.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/Settings.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/ShowComparisonSummary.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/ShowComparisonSummary.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/ShowWebPage.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/ShowWebPage.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/summary.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/summary.js
+[TRACE] COPYING CREATED FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/ui/common/WriteEmail.js => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/ui/common/WriteEmail.js
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/appicon.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/appicon_e5fbaffc57.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/check.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/check_d2bedaacf0.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/constructioncostcalicon.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/constructioncostcalicon_f4d8505673.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/cross_btn.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/cross_btn_3b8c77a30a.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/default_property1.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/default_property1_5e2e8fafd6.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/default_property2.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/default_property2_ebd7181b02.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/myproperties.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/myproperties_f49cba189e.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/qwikfeasodashboard.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/qwikfeasodashboard_9a7a8928b3.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/radiobtnactive.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/radiobtnactive_92a2f6b271.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/radiobtninactive.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/radiobtninactive_cf38e889b3.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/settings.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/settings_3774c4cedf.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/thumbsdown.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/thumbsdown_dd1333a46c.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/thumbsup.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/thumbsup_0e5e66e5d0.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/uncheck.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/uncheck_881e25afb7.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/appicon.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/appicon_e5fbaffc57.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/check.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/check_d2bedaacf0.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/constructionCostCalIcon.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/constructioncostcalicon_f4d8505673.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/cross_btn.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/cross_btn_3b8c77a30a.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/myproperties.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/myproperties_f49cba189e.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/qwikfeasodashboard.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/qwikfeasodashboard_9a7a8928b3.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/radiobtnactive.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/radiobtnactive_92a2f6b271.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/radiobtninactive.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/radiobtninactive_cf38e889b3.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/settings.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/settings_3774c4cedf.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/thumbsdown.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/thumbsdown_dd1333a46c.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/thumbsup.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/thumbsup_0e5e66e5d0.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/uncheck.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/uncheck_881e25afb7.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/appicon.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/appicon_e5fbaffc57.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/check.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/check_d2bedaacf0.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/constructioncostcalicon.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/constructioncostcalicon_f4d8505673.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/cross_btn.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/cross_btn_3b8c77a30a.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/default_property1.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/default_property1_5e2e8fafd6.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/default_property2.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/default_property2_ebd7181b02.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/myproperties.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/myproperties_f49cba189e.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/qwikfeasodashboard.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/qwikfeasodashboard_9a7a8928b3.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/radiobtnactive.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/radiobtnactive_92a2f6b271.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/radiobtninactive.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/radiobtninactive_cf38e889b3.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/settings.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/settings_3774c4cedf.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/thumbsdown.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/thumbsdown_dd1333a46c.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/thumbsup.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/thumbsup_0e5e66e5d0.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/uncheck.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/uncheck_881e25afb7.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/appicon.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/appicon_e5fbaffc57.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/check.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/check_d2bedaacf0.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/constructioncostcalicon.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/constructioncostcalicon_f4d8505673.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/cross_btn.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/cross_btn_3b8c77a30a.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/default_property1.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/default_property1_5e2e8fafd6.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/default_property2.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/default_property2_ebd7181b02.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/myproperties.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/myproperties_f49cba189e.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/qwikfeasodashboard.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/qwikfeasodashboard_9a7a8928b3.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/radiobtnactive.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/radiobtnactive_92a2f6b271.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/radiobtninactive.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/radiobtninactive_cf38e889b3.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/settings.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/settings_3774c4cedf.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/thumbsdown.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/thumbsdown_dd1333a46c.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/thumbsup.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/thumbsup_0e5e66e5d0.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xhdpi/uncheck.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xhdpi/uncheck_881e25afb7.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/appicon.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/appicon_e5fbaffc57.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/check.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/check_d2bedaacf0.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/constructioncostcalicon.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/constructioncostcalicon_f4d8505673.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/cross_btn.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/cross_btn_3b8c77a30a.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/default_property1.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/default_property1_5e2e8fafd6.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/default_property2.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/default_property2_ebd7181b02.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/myproperties.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/myproperties_f49cba189e.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/qwikfeasodashboard.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/qwikfeasodashboard_9a7a8928b3.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/radiobtnactive.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/radiobtnactive_92a2f6b271.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/radiobtninactive.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/radiobtninactive_cf38e889b3.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/settings.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/settings_3774c4cedf.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/thumbsdown.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/thumbsdown_dd1333a46c.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/thumbsup.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/thumbsup_0e5e66e5d0.png
+[TRACE] COPYING FILE: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-xxhdpi/uncheck.png => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-xxhdpi/uncheck_881e25afb7.png
+[DEBUG] found special platform files dir = /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/platform/android
+[INFO] Copying platform-specific files ...
+[DEBUG] app stylesheet => /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/ApplicationStylesheet.java
+[DEBUG] copying app icon: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-hdpi splash screen at /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/default.png
+[DEBUG] copying /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-hdpi/default.png splash screen to /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-hdpi/background.png
+[DEBUG] found drawable-ldpi splash screen at /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/default.png
+[DEBUG] copying /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-ldpi/default.png splash screen to /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-ldpi/background.png
+[DEBUG] found drawable-mdpi splash screen at /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/default.png
+[DEBUG] copying /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/Resources/android/images/res-mdpi/default.png splash screen to /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/res/drawable-mdpi/background.png
+[DEBUG] copying default splash screen
+[INFO] Detected custom ApplicationManifest.xml -- no Titanium version migration supported
+[DEBUG] Added 'screenSize' to <activity android:configChanges> because targeted api level 16 is >= 13
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/ApplicationStylesheet.java to javac build list
+[DEBUG] adding /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/AssetCryptImpl.java to javac build list
+[DEBUG] adding /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/QwikfeasoActivity.java to javac build list
+[DEBUG] adding /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/QwikfeasoAppInfo.java to javac build list
+[DEBUG] adding /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/QwikfeasoApplication.java to javac build list
+[DEBUG] adding /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/R.java to javac build list
+[DEBUG] Building Java Sources: "/Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/ApplicationStylesheet.java" "/Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/AssetCryptImpl.java" "/Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/QwikfeasoActivity.java" "/Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/QwikfeasoAppInfo.java" "/Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/QwikfeasoApplication.java" "/Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/gen/com/developernetwork/qwikfeaso/R.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Users/netadmin/Documents/QwikFeaso/Source Code/titanium/QwikFeaso/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/Data/DBFeaso.sqlite
+[DEBUG] from resource zip => assets/Resources/images/GrayNavBar.png
+[DEBUG] from resource zip => assets/Resources/images/check.png
+[DEBUG] from resource zip => assets/Resources/images/constructioncostcalicon.png
+[DEBUG] from resource zip => assets/Resources/images/cross_btn.png
+[DEBUG] from resource zip => assets/Resources/images/def.png
+[DEBUG] from resource zip => assets/Resources/images/default_property2.png
+[DEBUG] from resource zip => assets/Resources/images/default_property2@2x.png
+[DEBUG] from resource zip => assets/Resources/images/myproperties.png
+[DEBUG] from resource zip => assets/Resources/images/myproperties@2x.png
+[DEBUG] from resource zip => assets/Resources/images/qwikfeasodashboard.png
+[DEBUG] from resource zip => assets/Resources/images/radiobtnactive.png
+[DEBUG] from resource zip => assets/Resources/images/radiobtninactive.png
+[DEBUG] from resource zip => assets/Resources/images/settings.png
+[DEBUG] from resource zip => assets/Resources/images/settings@2x.png
+[DEBUG] from resource zip => assets/Resources/images/thumbsdown.png
+[DEBUG] from resource zip => assets/Resources/images/thumbsup.png
+[DEBUG] from resource zip => assets/Resources/images/uncheck.png
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-hdpi/appicon.png
+[DEBUG] from resource zip => res/drawable-hdpi/appicon_e5fbaffc57.png
+[DEBUG] from resource zip => res/drawable-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-hdpi/check.png
+[DEBUG] from resource zip => res/drawable-hdpi/check_d2bedaacf0.png
+[DEBUG] from resource zip => res/drawable-hdpi/constructioncostcalicon.png
+[DEBUG] from resource zip => res/drawable-hdpi/constructioncostcalicon_f4d8505673.png
+[DEBUG] from resource zip => res/drawable-hdpi/cross_btn.png
+[DEBUG] from resource zip => res/drawable-hdpi/cross_btn_3b8c77a30a.png
+[DEBUG] from resource zip => res/drawable-hdpi/default_property1.png
+[DEBUG] from resource zip => res/drawable-hdpi/default_property1_5e2e8fafd6.png
+[DEBUG] from resource zip => res/drawable-hdpi/default_property2.png
+[DEBUG] from resource zip => res/drawable-hdpi/default_property2_ebd7181b02.png
+[DEBUG] from resource zip => res/drawable-hdpi/myproperties.png
+[DEBUG] from resource zip => res/drawable-hdpi/myproperties_f49cba189e.png
+[DEBUG] from resource zip => res/drawable-hdpi/qwikfeasodashboard.png
+[DEBUG] from resource zip => res/drawable-hdpi/qwikfeasodashboard_9a7a8928b3.png
+[DEBUG] from resource zip => res/drawable-hdpi/radiobtnactive.png
+[DEBUG] from resource zip => res/drawable-hdpi/radiobtnactive_92a2f6b271.png
+[DEBUG] from resource zip => res/drawable-hdpi/radiobtninactive.png
+[DEBUG] from resource zip => res/drawable-hdpi/radiobtninactive_cf38e889b3.png
+[DEBUG] from resource zip => res/drawable-hdpi/settings.png
+[DEBUG] from resource zip => res/drawable-hdpi/settings_3774c4cedf.png
+[DEBUG] from resource zip => res/drawable-hdpi/thumbsdown.png
+[DEBUG] from resource zip => res/drawable-hdpi/thumbsdown_dd1333a46c.png
+[DEBUG] from resource zip => res/drawable-hdpi/thumbsup.png
+[DEBUG] from resource zip => res/drawable-hdpi/thumbsup_0e5e66e5d0.png
+[DEBUG] from resource zip => res/drawable-hdpi/uncheck.png
+[DEBUG] from resource zip => res/drawable-hdpi/uncheck_881e25afb7.png
+[DEBUG] from resource zip => res/drawable-ldpi/appicon.png
+[DEBUG] from resource zip => res/drawable-ldpi/appicon_e5fbaffc57.png
+[DEBUG] from resource zip => res/drawable-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-ldpi/check.png
+[DEBUG] from resource zip => res/drawable-ldpi/check_d2bedaacf0.png
+[DEBUG] from resource zip => res/drawable-ldpi/constructioncostcalicon.png
+[DEBUG] from resource zip => res/drawable-ldpi/constructioncostcalicon_f4d8505673.png
+[DEBUG] from resource zip => res/drawable-ldpi/cross_btn.png
+[DEBUG] from resource zip => res/drawable-ldpi/cross_btn_3b8c77a30a.png
+[DEBUG] from resource zip => res/drawable-ldpi/myproperties.png
+[DEBUG] from resource zip => res/drawable-ldpi/myproperties_f49cba189e.png
+[DEBUG] from resource zip => res/drawable-ldpi/qwikfeasodashboard.png
+[DEBUG] from resource zip => res/drawable-ldpi/qwikfeasodashboard_9a7a8928b3.png
+[DEBUG] from resource zip => res/drawable-ldpi/radiobtnactive.png
+[DEBUG] from resource zip => res/drawable-ldpi/radiobtnactive_92a2f6b271.png
+[DEBUG] from resource zip => res/drawable-ldpi/radiobtninactive.png
+[DEBUG] from resource zip => res/drawable-ldpi/radiobtninactive_cf38e889b3.png
+[DEBUG] from resource zip => res/drawable-ldpi/settings.png
+[DEBUG] from resource zip => res/drawable-ldpi/settings_3774c4cedf.png
+[DEBUG] from resource zip => res/drawable-ldpi/thumbsdown.png
+[DEBUG] from resource zip => res/drawable-ldpi/thumbsdown_dd1333a46c.png
+[DEBUG] from resource zip => res/drawable-ldpi/thumbsup.png
+[DEBUG] from resource zip => res/drawable-ldpi/thumbsup_0e5e66e5d0.png
+[DEBUG] from resource zip => res/drawable-ldpi/uncheck.png
+[DEBUG] from resource zip => res/drawable-ldpi/uncheck_881e25afb7.png
+[DEBUG] from resource zip => res/drawable-mdpi/appicon.png
+[DEBUG] from resource zip => res/drawable-mdpi/appicon_e5fbaffc57.png
+[DEBUG] from resource zip => res/drawable-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-mdpi/check.png
+[DEBUG] from resource zip => res/drawable-mdpi/check_d2bedaacf0.png
+[DEBUG] from resource zip => res/drawable-mdpi/constructioncostcalicon.png
+[DEBUG] from resource zip => res/drawable-mdpi/constructioncostcalicon_f4d8505673.png
+[DEBUG] from resource zip => res/drawable-mdpi/cross_btn.png
+[DEBUG] from resource zip => res/drawable-mdpi/cross_btn_3b8c77a30a.png
+[DEBUG] from resource zip => res/drawable-mdpi/default_property1.png
+[DEBUG] from resource zip => res/drawable-mdpi/default_property1_5e2e8fafd6.png
+[DEBUG] from resource zip => res/drawable-mdpi/default_property2.png
+[DEBUG] from resource zip => res/drawable-mdpi/default_property2_ebd7181b02.png
+[DEBUG] from resource zip => res/drawable-mdpi/myproperties.png
+[DEBUG] from resource zip => res/drawable-mdpi/myproperties_f49cba189e.png
+[DEBUG] from resource zip => res/drawable-mdpi/qwikfeasodashboard.png
+[DEBUG] from resource zip => res/drawable-mdpi/qwikfeasodashboard_9a7a8928b3.png
+[DEBUG] from resource zip => res/drawable-mdpi/radiobtnactive.png
+[DEBUG] from resource zip => res/drawable-mdpi/radiobtnactive_92a2f6b271.png
+[DEBUG] from resource zip => res/drawable-mdpi/radiobtninactive.png
+[DEBUG] from resource zip => res/drawable-mdpi/radiobtninactive_cf38e889b3.png
+[DEBUG] from resource zip => res/drawable-mdpi/settings.png
+[DEBUG] from resource zip => res/drawable-mdpi/settings_3774c4cedf.png
+[DEBUG] from resource zip => res/drawable-mdpi/thumbsdown.png
+[DEBUG] from resource zip => res/drawable-mdpi/thumbsdown_dd1333a46c.png
+[DEBUG] from resource zip => res/drawable-mdpi/thumbsup.png
+[DEBUG] from resource zip => res/drawable-mdpi/thumbsup_0e5e66e5d0.png
+[DEBUG] from resource zip => res/drawable-mdpi/uncheck.png
+[DEBUG] from resource zip => res/drawable-mdpi/uncheck_881e25afb7.png
+[DEBUG] from resource zip => res/drawable-xhdpi/appicon.png
+[DEBUG] from resource zip => res/drawable-xhdpi/appicon_e5fbaffc57.png
+[DEBUG] from resource zip => res/drawable-xhdpi/check.png
+[DEBUG] from resource zip => res/drawable-xhdpi/check_d2bedaacf0.png
+[DEBUG] from resource zip => res/drawable-xhdpi/constructioncostcalicon.png
+[DEBUG] from resource zip => res/drawable-xhdpi/constructioncostcalicon_f4d8505673.png
+[DEBUG] from resource zip => res/drawable-xhdpi/cross_btn.png
+[DEBUG] from resource zip => res/drawable-xhdpi/cross_btn_3b8c77a30a.png
+[DEBUG] from resource zip => res/drawable-xhdpi/default_property1.png
+[DEBUG] from resource zip => res/drawable-xhdpi/default_property1_5e2e8fafd6.png
+[DEBUG] from resource zip => res/drawable-xhdpi/default_property2.png
+[DEBUG] from resource zip => res/drawable-xhdpi/default_property2_ebd7181b02.png
+[DEBUG] from resource zip => res/drawable-xhdpi/myproperties.png
+[DEBUG] from resource zip => res/drawable-xhdpi/myproperties_f49cba189e.png
+[DEBUG] from resource zip => res/drawable-xhdpi/qwikfeasodashboard.png
+[DEBUG] from resource zip => res/drawable-xhdpi/qwikfeasodashboard_9a7a8928b3.png
+[DEBUG] from resource zip => res/drawable-xhdpi/radiobtnactive.png
+[DEBUG] from resource zip => res/drawable-xhdpi/radiobtnactive_92a2f6b271.png
+[DEBUG] from resource zip => res/drawable-xhdpi/radiobtninactive.png
+[DEBUG] from resource zip => res/drawable-xhdpi/radiobtninactive_cf38e889b3.png
+[DEBUG] from resource zip => res/drawable-xhdpi/settings.png
+[DEBUG] from resource zip => res/drawable-xhdpi/settings_3774c4cedf.png
+[DEBUG] from resource zip => res/drawable-xhdpi/thumbsdown.png
+[DEBUG] from resource zip => res/drawable-xhdpi/thumbsdown_dd1333a46c.png
+[DEBUG] from resource zip => res/drawable-xhdpi/thumbsup.png
+[DEBUG] from resource zip => res/drawable-xhdpi/thumbsup_0e5e66e5d0.png
+[DEBUG] from resource zip => res/drawable-xhdpi/uncheck.png
+[DEBUG] from resource zip => res/drawable-xhdpi/uncheck_881e25afb7.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/appicon.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/appicon_e5fbaffc57.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/check.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/check_d2bedaacf0.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/constructioncostcalicon.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/constructioncostcalicon_f4d8505673.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/cross_btn.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/cross_btn_3b8c77a30a.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/default_property1.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/default_property1_5e2e8fafd6.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/default_property2.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/default_property2_ebd7181b02.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/myproperties.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/myproperties_f49cba189e.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/qwikfeasodashboard.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/qwikfeasodashboard_9a7a8928b3.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/radiobtnactive.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/radiobtnactive_92a2f6b271.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/radiobtninactive.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/radiobtninactive_cf38e889b3.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/settings.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/settings_3774c4cedf.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/thumbsdown.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/thumbsdown_dd1333a46c.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/thumbsup.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/thumbsup_0e5e66e5d0.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/uncheck.png
+[DEBUG] from resource zip => res/drawable-xxhdpi/uncheck_881e25afb7.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/modules/android/ti.admob/2.1.0/lib/GoogleAdMobAdsSdk-6.4.1.jar => jsr305_annotations/Jsr305_annotations.gwt.xml
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/modules/android/ti.admob/2.1.0/lib/GoogleAdMobAdsSdk-6.4.1.jar => jsr305_annotations/v0_r47/V0_r47.gwt.xml
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR /Users/netadmin/Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] installing native lib: /Users/netadmin/Library/Application Support/Titanium/modules/android/ti.admob/2.1.0/libs/armeabi/libti.admob.so
+[DEBUG] installing native lib: /Users/netadmin/Library/Application Support/Titanium/modules/android/ti.admob/2.1.0/libs/armeabi-v7a/libti.admob.so
+[DEBUG] installing native lib: /Users/netadmin/Library/Application Support/Titanium/modules/android/ti.admob/2.1.0/libs/x86/libti.admob.so
+[DEBUG] installing native SDK libs

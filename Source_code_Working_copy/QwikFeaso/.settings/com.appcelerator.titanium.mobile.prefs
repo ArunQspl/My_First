@@ -1,0 +1,17 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=QwikFeaso
+android/abi=x86
+android/distribute_path=/Users/netadmin/Documents/QwikFeaso/QwikFeaso_App_Distribution/Signed_APK_26-08-2013a
+android/keystore_alias=qwikfeaso
+android/keystore_password=qwikfeaso
+android/keystore_path=/Users/netadmin/Documents/QwikFeaso/QwikFeaso_App_Distribution/Keypair_Certificate/android.keystore
+android/recent_output=/Users/netadmin/Documents/QwikFeaso/QwikFeaso_App_Distribution/Signed_APK_26-08-2013a
+android/sdk_version=Android 2.3.3
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=QwikFeaso
+iosLaunchConfigurationAttributes/appid=com.quagnitia.qwikfeaso
+iosLaunchConfigurationAttributes/certificate=Amulay Prakash (87PE4CNKK3)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=6.0
+iosLaunchConfigurationAttributes/uuid=35A09DE7-9500-4520-BF4A-F2C90BFAB7D4

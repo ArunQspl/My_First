@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+    <property name="ti.android.runtime">v8</property>
+    <!-- <property name="acs-oauth-secret-production" type="string">Q5l00hQeFmNYKB2wiRgjcIinI8ybGm68</property>
+    <property name="acs-oauth-key-production" type="string">IK4nLpFLhnPdYM6lUjh2MJG3jF6xpCzT</property>
+    <property name="acs-api-key-production" type="string">unGAxwSYmDLZxfcxzz45IPFAHCMFGR1u</property>
+    <property name="acs-oauth-secret-development" type="string">OSl4lUdnGT40NHMumCWgErruFrNpdYbT</property>
+    <property name="acs-oauth-key-development" type="string">ONSITHd6z4HqIdCP4GzwdZA3dRC9XKP0</property>
+    <property name="acs-api-key-development" type="string">a265VzTtCi1xN1NONNkcv3Q2gtwtHbP2</property>-->
+    <property name="acs-oauth-secret-production" type="string">CBvcgmx6Kmx9LDCHjQZ8K8olAwPhZN1b</property>
+    <property name="acs-oauth-key-production" type="string">WEZ4WWpyDmdCq1HzYe1ypxf0SkWPkPRL</property>
+    <property name="acs-api-key-production" type="string">1qV4yCJ98VV9o4MCnxcqbhIjR7kTgRd1</property>
+    <property name="acs-oauth-secret-development" type="string">Ho9LgeuaCUH0CS6xJbRzwZEdVh9TyPly</property>
+    <property name="acs-oauth-key-development" type="string">6aCeC2qtFIO38haaTchkg4C879pvdEkd</property>
+    <property name="acs-api-key-development" type="string">iHszoWPJxKJ3N6oYzyjQDiUXf7BlnppW</property>
+    <property name="ti.android.fastdev" type="bool">false</property>
+    <!--
+    <property name="ti.android.bug2373.disableDetection" type="bool">true</property>
+	<property name="ti.android.bug2373.restartDelay" type="int">500</property>
+	<property name="ti.android.bug2373.finishDelay" type="int">0</property>
+	<property name="ti.android.bug2373.skipAlert" type="bool">true</property>
+	<property name="ti.android.bug2373.message">Initializing</property>
+	<property name="ti.android.bug2373.title">Restart Required</property>
+	<property name="ti.android.bug2373.buttonText">Continue</property> -->
+    <!-- A new approach to 2373 handling -->
+    <property name="ti.android.bug2373.finishfalseroot" type="bool">true</property>
+    <deployment-targets>
+        <target device="tizen">false</target>
+        <target device="mobileweb">false</target>
+        <target device="blackberry">false</target>
+        <target device="iphone">true</target>
+        <target device="ipad">true</target>
+        <target device="android">true</target>
+    </deployment-targets>
+    <sdk-version>2.1.4.GA</sdk-version>
+    <id>com.developernetwork.qwikfeaso</id>
+    <name>QwikFeaso</name>
+    <version>1.04</version>
+    <publisher>Developer Network</publisher>
+    <url>http://</url>
+    <description>not specified</description>
+    <copyright>2012 by Quagnitia Sys.Pvt Ltd ,Pune</copyright>
+    <icon>appicon.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>true</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>true</navbar-hidden>
+    <analytics>true</analytics>
+    <guid>122fbdde-78cf-4e3a-9317-fd3997608f6a</guid>
+    <property name="ti.ui.defaultunit">system</property>
+    <iphone>
+        <!--  <min-ios-ver>4.3.0</min-ios-ver>  -->
+        <orientations device="iphone">
+            <orientation>Ti.UI.PORTRAIT</orientation>
+        </orientations>
+        <orientations device="ipad">
+            <orientation>Ti.UI.PORTRAIT</orientation>
+        </orientations>
+    </iphone>
+    <android xmlns:android="http://schemas.android.com/apk/res/android">
+        <navbar-hidden>true</navbar-hidden>
+        <manifest>
+            <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="9"/>
+            <supports-screens android:anyDensity="true"/>
+        </manifest>
+        <tool-api-level>16</tool-api-level>
+        <uses-permission android:name="android.permission.INTERNET"/>
+        <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    </android>
+    <modules>
+        <module platform="iphone" version="1.5.0">ti.admob</module>
+        <module platform="android" version="2.1.0">ti.admob</module>
+        <module platform="commonjs" version="2.3.6">ti.cloud</module>
+    </modules>
+</ti:app>

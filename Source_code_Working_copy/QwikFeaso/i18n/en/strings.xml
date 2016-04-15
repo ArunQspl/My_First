@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="welcome">Welcome to %s!</string>
+	<string name="signScreen_SignInLable">SignIn</string>
+	<!--<string name="userregistrationdatamissing">Woops we seem to be missing some information. Please ensure that you have completed all fields and have accepted the Terms & Conditions before proceeding</string>
+	<string name="userlocationmissing">Please select the Country, then Region where you live</string>
+	<string name="selectcountrybeforeregion">Please select a Country before attempting to enter a Region</string>
+	<string name="agreetotermsandconditions">You must agree to the Terms and Conditions in order to use QwikFeaso</string>
+	<string name="invalidemailid">Please enter a Valid Email address</string>
+	<string name="activateaccount">You have not yet Activated your account. Please complete all fields, then send and acknowledge your Email Activation Code  before proceeding</string>
+	<string name="activationcodemail">Please check your email (including SPAM) for your Activation Code. Once you have Activated your account you can start to use QwikFeaso Straight away</string>
+	<string name="accountalreadyactivated">Your account is already Activated</string>
+	<string name="accountalreadyactivated">Your account is already Activated</string>
+	<string name="resendactivatecode">You have not yet Activated your account. An email has already been sent to your registed email address with your activation code. Please acknowledge this Email before proceeding. You can always send another Email Activation Code if you can't find this email</string>
+	<string name="userwelcomemail">A Welcome email has been sent to your registered email address</string>
+	<string name="userupdatemail">Thank You, We have updated our records with your new details</string>
+	<string name="nointernetaccess">There is presently no Internet Access which QwikFeaso needs in order to work.</string>-->
+	
+</resources>
